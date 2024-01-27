@@ -3,7 +3,7 @@
 ## Background
 
 
- This project is about AI and ML....
+ This project is about the user querying answers from a data they have to easily get information that would normally have multitude of data points.
 
 ---
 
@@ -15,44 +15,18 @@ This project leverages **[python version 3.8.5](https://www.python.org/downloads
 
 
 
-* [PyVizlot](https://pyviz.org/) -  Python visualization package that provides a single platform for accessing multiple visualization libraries. Two of the libraries are:
-
-  * [hvplot.pandas](https://hvplot.holoviz.org/user_guide/Introduction.html) - *version 0.7.2* - For the interactive visualization of the crowdfunding data.
-
+* [Llama Index](https://www.llamaindex.ai/) -  This is a list of AI index where we got our Pandas Query Engine.
 
  
----
-## Installation Guide
-
-
-### 1. Installing and Running Jupyter notebook
-
-On the terminal, under the conda dev environment, type the code below:
-
-`pip install jupyterlab`
-
-#### * Opening Jupyter notebook
-
-If you have Jupyter Lab already installed, to open your Notebook and be able to view your hidden files, please type this while on your conda dev environment:
-
-`jupyter lab --ContentsManager.allow_hidden=True` 
-
-Once you click ENTER, this will open on your default browser.
-
-
 
 
 ---
 ## Example
 
 
- This project is about....
----
+ ![Sample](./data/sample.png)
 
-## Usage
-
-This is how to use the project...
----
+--
 
 ## Contributors
 
